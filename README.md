@@ -66,7 +66,7 @@ AI-Dungeon-Game/
     npm start
     ```
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+3. Open https://aether-ai-dungeon-game.netlify.app/ in your browser to view frontend.
 
 ## Usage
 
